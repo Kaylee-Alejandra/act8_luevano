@@ -1,19 +1,6 @@
-# act8_luevano
+# caps 
+![image](https://github.com/user-attachments/assets/910f75d7-635a-4f6e-9d84-1ce725baa3bd)
+![image](https://github.com/user-attachments/assets/de54210c-ae86-4b43-a154-d00ef3d9c007)
+![image](https://github.com/user-attachments/assets/59de8544-4007-4fb2-a9e7-60291fec0111)
+![image](https://github.com/user-attachments/assets/62d47c3d-59ad-4da1-8676-f4d0e58dd761)
 
-A new Flutter project created with FlutLab - https://flutlab.io
-
-## Getting Started
-
-A few resources to get you started if this is your first Flutter project:
-
-- https://flutter.dev/docs/get-started/codelab
-- https://flutter.dev/docs/cookbook
-
-For help getting started with Flutter, view our
-https://flutter.dev/docs, which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-## Getting Started: FlutLab - Flutter Online IDE
-
-- How to use FlutLab? Please, view our https://flutlab.io/docs
-- Join the discussion and conversation on https://flutlab.io/residents
